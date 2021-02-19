@@ -2,7 +2,7 @@
 
 This a pure vanilla JavaScript Project, which is a calculator web app. It's I have created by the use of the OOP concept. Where people will be able to solve their general calculation.
 
-[Live Website](https://travel-guruapp.netlify.app/)
+[Live Website](https://calculatorapp-usedby-oop-concept.netlify.app/)
 
 ### Tools & Thechnology : 
 * HTML5
